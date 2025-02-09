@@ -32,7 +32,7 @@ P-Rank Requirements
 
 1-R: A Dream of Home
 9:35
-159 kills
+148 kills
 58000 style
 
 2-R: Farewell at the End of Eden
