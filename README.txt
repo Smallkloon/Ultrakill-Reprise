@@ -1,7 +1,7 @@
 README
 
 Thank you for downloading Ultrakill Reprise by Smallkloon!
-
+Ultrakill Reprise contains scenes with flashing lights. Player discretion is advised.
 
 Installation Instructions:
 
@@ -15,13 +15,11 @@ Click "Scan For Levels" on the Angry Level Loader page (Options > Plugin Config 
 (If you need to install the dll manually, throw it into ...\BepInEx\plugins\EternalsTeam-AngryLevelLoader\AngryLevelLoader\Scripts)
 (C:\Users\USER\AppData\Roaming\r2modmanPlus-local\ULTRAKILL\profiles\Default\BepInEx\plugins\EternalsTeam-AngryLevelLoader\AngryLevelLoader\Scripts for r2modman, for example)
 
-
 Select "ULTRAKILL /// REPRISE"
 
 
 Notes:
 
-1-R nomo% and nomow% does not work in Angry. You must manually enable the "Disable Enemy Spawns" cheat.
 Playing a level for the first time will prompt you to download a utilities script, allow download and proceed.
 
 
@@ -29,10 +27,15 @@ P-Rank Requirements
 
 0-R: Ashes to Ashes
 6:04
-150 kills
-58000 style
+144 kills
+54000 style
 
 1-R: A Dream of Home
 9:35
 159 kills
 58000 style
+
+2-R: Farewell at the End of Eden
+???
+??? kills
+??? style
